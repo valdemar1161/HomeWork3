@@ -1,0 +1,15 @@
+C:\Users\Home-PC\Desktop\c#HW\Hw002\bin\Debug\net6.0\Hw002.exe
+C:\Users\Home-PC\Desktop\c#HW\Hw002\bin\Debug\net6.0\Hw002.deps.json
+C:\Users\Home-PC\Desktop\c#HW\Hw002\bin\Debug\net6.0\Hw002.runtimeconfig.json
+C:\Users\Home-PC\Desktop\c#HW\Hw002\bin\Debug\net6.0\Hw002.dll
+C:\Users\Home-PC\Desktop\c#HW\Hw002\bin\Debug\net6.0\Hw002.pdb
+C:\Users\Home-PC\Desktop\c#HW\Hw002\obj\Debug\net6.0\Hw002.csproj.AssemblyReference.cache
+C:\Users\Home-PC\Desktop\c#HW\Hw002\obj\Debug\net6.0\Hw002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home-PC\Desktop\c#HW\Hw002\obj\Debug\net6.0\Hw002.AssemblyInfoInputs.cache
+C:\Users\Home-PC\Desktop\c#HW\Hw002\obj\Debug\net6.0\Hw002.AssemblyInfo.cs
+C:\Users\Home-PC\Desktop\c#HW\Hw002\obj\Debug\net6.0\Hw002.csproj.CoreCompileInputs.cache
+C:\Users\Home-PC\Desktop\c#HW\Hw002\obj\Debug\net6.0\Hw002.dll
+C:\Users\Home-PC\Desktop\c#HW\Hw002\obj\Debug\net6.0\refint\Hw002.dll
+C:\Users\Home-PC\Desktop\c#HW\Hw002\obj\Debug\net6.0\Hw002.pdb
+C:\Users\Home-PC\Desktop\c#HW\Hw002\obj\Debug\net6.0\Hw002.genruntimeconfig.cache
+C:\Users\Home-PC\Desktop\c#HW\Hw002\obj\Debug\net6.0\ref\Hw002.dll
